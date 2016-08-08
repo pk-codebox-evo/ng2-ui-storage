@@ -1,5 +1,5 @@
 # ng2-ui-storage
-Angular2 Fallback of localStorage and sessionStorage
+Provides memory storage fallback for localStorage and sessionStorage
 
 ## Usage
 
